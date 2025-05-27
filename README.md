@@ -22,7 +22,4 @@ This machine learning project identifies which customers are likely to churn bas
 ```bash
 customer_churn_prediction/
 ├── churn_model.ipynb       # Jupyter Notebook with full project workflow
-├── data/                   # Data location
-├── images/                 # Plots and visualizations
-├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
